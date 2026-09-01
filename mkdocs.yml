@@ -4,4 +4,4 @@ theme: readthedocs
 palette:
   -scheme : slate # mode sombre 
   primary: 'indigo'
-  accent: 'indigo'
+
