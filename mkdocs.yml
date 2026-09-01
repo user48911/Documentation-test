@@ -1,0 +1,7 @@
+site_name: Documentation projet sio2
+theme: readthedocs
+  
+palette:
+  -scheme : slate # mode sombre 
+  primary: 'indigo'
+  accent: 'indigo'
